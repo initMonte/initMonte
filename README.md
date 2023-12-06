@@ -7,8 +7,6 @@ I am interested in **Mobile and Web development**, and although I aim to have a 
 
 I hope you like what you find in my repositories =)
 
-### /English
-
 ___
 
 ## Español
@@ -19,5 +17,3 @@ Actualmente estoy a 1 cuatrimestre de terminar la **Tecnicatura en Desarrollo de
 Estoy interesado en el **desarrollo Mobile y desarrollo web**, y si bien busco tener un perfil FullStack por el momento tengo mas experiencia con el FrontEnd.
 
 Espero que te guste lo que encuentres en mis repositorios =)
-
-### /Español
